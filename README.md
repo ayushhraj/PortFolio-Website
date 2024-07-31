@@ -1,6 +1,6 @@
 # PortFolio-Website
 
-It's a simple portfolio website to showcase your work and projects:  http://127.0.0.1:5500/portfolio-website/index.html#
+It's a simple portfolio website to showcase your work and projects 
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/c4c2c0d4-fc67-48f8-a49c-63d22b92ca5b)
