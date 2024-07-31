@@ -12,15 +12,17 @@ It's a simple portfolio website to showcase your work and projects:  http://127.
 
 ## Technologies Used:
 
-HTML5
-CSS3
-JavaScript
-jQuery
-Bootstrap
-FontAwesome Icons
-Bootstrap Icons
+- HTML5
+- CSS3
+- JavaScript
+- jQuery
+- Bootstrap
+- FontAwesome Icons
+- Bootstrap Icons
 
 ## Features
 📖 Single-Page Layout
+
 🎨 Styled with Bootstrap and Css
+
 📱 Fully Responsive
