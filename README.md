@@ -1,8 +1,8 @@
-## PortFolio-Website
+# PortFolio-Website
 
 It's a simple portfolio website to showcase your work and projects:  http://127.0.0.1:5500/portfolio-website/index.html#
 
-#Screenshots
+## Screenshots
 ![image](https://github.com/user-attachments/assets/c4c2c0d4-fc67-48f8-a49c-63d22b92ca5b)
 ![image](https://github.com/user-attachments/assets/d88a9208-51f0-439a-a31a-533c25fb58bf)
 ![image](https://github.com/user-attachments/assets/c204e3ff-e6ad-43ae-8a26-d52e7ea2ca92)
@@ -10,7 +10,7 @@ It's a simple portfolio website to showcase your work and projects:  http://127.
 
 
 
-#Technologies Used:
+## Technologies Used:
 
 HTML5
 CSS3
@@ -20,7 +20,7 @@ Bootstrap
 FontAwesome Icons
 Bootstrap Icons
 
-#Features
+## Features
 📖 Single-Page Layout
 🎨 Styled with Bootstrap and Css
 📱 Fully Responsive
